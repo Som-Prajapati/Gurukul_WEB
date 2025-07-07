@@ -48,7 +48,6 @@ Educational institutions often face challenges such as:
 - 👨‍🎓 **Student Access** – View schedules, results, academic notices  
 - 🛠️ **Admin Features** – User control, backend configurations, data audit  
 
----
 
 ## ✅ Features Summary
 
@@ -59,7 +58,6 @@ Educational institutions often face challenges such as:
 - Scalable and Secure Backend Architecture  
 - Easy UI with Responsive Design  
 
----
 
 ## 📂 Project Structure
 
@@ -72,9 +70,7 @@ Educational institutions often face challenges such as:
 ├── index.php             # Entry point of the application
 ├── config.php            # Configuration file for DB connection
 ├── README.md             # Project documentation
-```
 
----
 
 ## 📌 Conclusion
 
